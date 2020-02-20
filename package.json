@@ -3,7 +3,7 @@
     "name": "Blackbaud - Bobby Earl"
   },
   "name": "blackbaud-stache",
-  "version": "0.7.43",
+  "version": "0.7.44",
   "description": "Blackbaud Stache",
   "licence": "MIT",
   "repository": {
@@ -29,7 +29,7 @@
     "handlebars": "^4.0.4",
     "helper-moment": "^0.1.0",
     "html-minifier": "^1.0.0",
-    "blackbaud-marked": "git://github.com/blackbaud-community/marked.git",
+    "blackbaud-marked": "git+https://github.com/everydayhero/marked.git",
     "merge": "^1.2.0",
     "uglify-js": "^2.5.0"
   },
